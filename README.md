@@ -1,2 +1,7 @@
-# C-projects
-Projetos e exercícios em linguagem C feitos durante a graduação em Ciência da Computação
+# Projetos e Exercícios em C
+
+Este repositório contém códigos desenvolvidos em linguagem C durante o curso de Ciência da Computação na UFCAT.
+
+## Linguagem
+
+- C (GCC)
